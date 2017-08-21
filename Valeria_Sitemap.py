@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 from twilio.rest import Client
 
-client = Client('AC9709d76b68dc19ec27d6e6f7110bff97', 'b1e1c73b81733409ed8dcf18fa510ba0')
+client = Client('XXXXX', 'XXXXXX')
 
 def text_me(message):
     twilio_number = '+19563912057'
